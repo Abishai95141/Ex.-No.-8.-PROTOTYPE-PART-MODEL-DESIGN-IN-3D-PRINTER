@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/Abishai95141/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139335314/212110a7-faab-4747-a40d-19bc209dc898)
 
-### Name:
-### Register Number:
+### Name: ABISHAI K C
+### Register Number: 23001564
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
